@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Practica6_PopcornFactory</string>
+    <string name="nombrePelicula">Pelicula.getNombre()</string>
+</resources>
